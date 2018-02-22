@@ -14,6 +14,7 @@ print('?'.join((AUTH_URL, urlencode(oauth_data))))
 TOKEN = 'AQAAAAAMG-OlAATTp7ub0BuADkr_rq0OCS6M7gI'
 COUNTER_ID = 47797873
 
+
 class YaMetrikaUser:
 
     API_URL = 'https://api-metrika.yandex.ru/stat/v1/data'
